@@ -1,4 +1,11 @@
 *
-body {
-  background-image: url("Screenshot 2024-04-03 21.35.39.png");
+body{
+    background-image: url(' ');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
 }
